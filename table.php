@@ -7,10 +7,17 @@ require __DIR__ . "/head.php";
 <table>
     <tr>
         <th>Team</th>
+        <th>Logo</th>
         <th>Uefa Ranking</th>
     </tr>
     <tr>
-        <td>Barcelona</td>
+        <td>
+            <h3>Barcelona</h3>
+            <p><b>City:</b>Barcelona</p>
+            <p><b>Group:</b>D</p>
+            <p><a href="https://www.fcbarcelona.com/">Website</a></p>
+        </td>
+        <td><img src="https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg" /></td>
         <td>1</td>
     </tr>
     <tr>
