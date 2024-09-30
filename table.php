@@ -1,3 +1,9 @@
+<?php
+
+require __DIR__ . "/head.php";
+
+?>
+
 <table>
     <tr>
         <th>Team</th>
