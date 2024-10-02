@@ -4,7 +4,6 @@ require __DIR__ . "/head.php";
 require __DIR__ . "/logic.php";
 
 ?>
-
 <table>
 
     <tr>

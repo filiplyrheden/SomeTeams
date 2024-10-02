@@ -1,6 +1,7 @@
-<header>
-    <nav>
-        <a href="/index.php">Start</a>
-        <a href="">About</a>
-    </nav>
-</header>
+<body>
+    <header>
+        <nav>
+            <a href="/index.php">Start</a>
+            <a href="/about.php">About</a>
+        </nav>
+    </header>
