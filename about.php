@@ -10,8 +10,11 @@
 
 <?php require __DIR__ . "/header.php" ?>
 
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum nisi possimus ut iure officiis modi repudiandae consequatur explicabo culpa, magni corporis. Ullam, voluptas! Vel eum laborum at sapiente, commodi in.</p>
+<div class="about">
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum nisi possimus ut iure officiis modi repudiandae consequatur explicabo culpa, magni corporis. Ullam, voluptas! Vel eum laborum at sapiente, commodi in.</p>
 
-<?php require __DIR__ . "/footer.php" ?>
+    <?php require __DIR__ . "/footer.php" ?>
+
+</div>
 
 </html>
