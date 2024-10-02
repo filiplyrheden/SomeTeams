@@ -5,6 +5,14 @@ nav {
   margin-bottom: 20px;
 }
 
+nav a {
+  text-decoration:underline;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  color: black;
+  margin: 10px;
+}
+
 table {
     table-layout: fixed;
     width: 80%;
