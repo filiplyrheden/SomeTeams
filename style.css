@@ -1,3 +1,7 @@
+body {
+  background-color: #a0ddf1
+}
+
 nav {
   width: auto;
   height: 10vh;
@@ -15,10 +19,12 @@ nav a {
 
 table {
   table-layout: fixed;
-  width: 80%;
+  width: 70%;
   border-collapse: collapse;
   border: 3px solid black;
   text-align: center;
+  margin: 0 auto;
+  background-color: lightgoldenrodyellow
 }
 
 th,
