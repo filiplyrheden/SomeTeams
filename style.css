@@ -50,6 +50,16 @@ td {
   min-height: 80vh;
 }
 
+.about-text {
+  width: 70%;
+  border: 3px solid black;
+  border-radius: 10px;
+  background-color: lightgoldenrodyellow;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto ;
+  padding: 10px;}
+
 footer {
   bottom: 0;
   width: 100%;

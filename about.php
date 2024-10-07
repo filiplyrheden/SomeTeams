@@ -11,10 +11,14 @@
 <?php require __DIR__ . "/header.php" ?>
 
 <div class="about">
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum nisi possimus ut iure officiis modi repudiandae consequatur explicabo culpa, magni corporis. Ullam, voluptas! Vel eum laborum at sapiente, commodi in.</p>
+
+    <article class="about-text">
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum nisi possimus ut iure officiis modi repudiandae consequatur explicabo culpa, magni corporis. Ullam, voluptas! Vel eum laborum at sapiente, commodi in.</p>
+    </article>
 
     <?php require __DIR__ . "/footer.php" ?>
-
 </div>
+
+
 
 </html>

@@ -9,7 +9,7 @@ require __DIR__ . "/logic.php";
     <tr>
         <th>Team</th>
         <th>Logo</th>
-        <th>Uefa Ranking</th>
+        <th>UEFA Ranking</th>
     </tr>
 
     <?php foreach ($teams as $teamName => $teamData) : ?>
