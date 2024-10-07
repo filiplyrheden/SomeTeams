@@ -1,5 +1,5 @@
 body {
-  background-color: #a0ddf1
+  background-color: #a0ddf1;
 }
 
 nav {
@@ -24,7 +24,7 @@ table {
   border: 3px solid black;
   text-align: center;
   margin: 0 auto;
-  background-color: lightgoldenrodyellow
+  background-color: lightgoldenrodyellow;
 }
 
 th,
