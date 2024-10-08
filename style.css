@@ -29,9 +29,10 @@ h1 {
   font-style: normal;
 }
 
-p {
+p, h4, li {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
 
 .intro-text {
   width: 70%;
