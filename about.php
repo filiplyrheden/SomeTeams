@@ -13,7 +13,17 @@
 <div class="about">
 
     <article class="about-text">
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum nisi possimus ut iure officiis modi repudiandae consequatur explicabo culpa, magni corporis. Ullam, voluptas! Vel eum laborum at sapiente, commodi in.</p>
+        <p>This project is part of an assignment during my education as a web developer at Yrgo in Gothenburg.</p>
+
+        <br>
+
+        <h4>Technology used:</h4>
+        <ul>
+            <li>PHP</li>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>Google search and persistence</li>
+        </ul>
     </article>
 
     <?php require __DIR__ . "/footer.php" ?>
