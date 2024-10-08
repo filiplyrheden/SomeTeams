@@ -22,7 +22,7 @@ require __DIR__ . "/logic.php";
                 <p><a href="<?= $teamData["url"] ?>" target="_blank">Website</a></p>
             </td>
             <td><img src="<?= $teamData["logo"] ?>" alt="<?= $teamName ?> Logo" width="100"></td>
-            <td><?= $teamData["uefa-coefficient-ranking"] ?></td>
+            <td><b><?= $teamData["uefa-coefficient-ranking"] ?></b></td>
         </tr>
     <?php endforeach; ?>
 
