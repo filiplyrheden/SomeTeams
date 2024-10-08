@@ -29,10 +29,11 @@ h1 {
   font-style: normal;
 }
 
-p, h4, li {
+p,
+h4,
+li {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-
 
 .intro-text {
   width: 70%;
@@ -65,28 +66,43 @@ td {
 .about {
   position: relative;
   min-height: 80vh;
+  display: flex;
+  flex-direction: row;
 }
 
 .about-text {
-  width: 70%;
   border: 3px solid black;
   border-radius: 10px;
   background-color: lightgoldenrodyellow;
   text-align: center;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 20px;
+  margin-right: 10px;
   padding: 10px;
+  height: 25vh;
+
 }
 
 h4 {
   margin-bottom: -10px;
-  text-decoration: underline;
+}
+
+.about-list {
+  border: 3px solid black;
+  border-radius: 10px;
+  background-color: lightgoldenrodyellow;
+  margin-left: 10px;
+  margin-right: 20px;
+  padding: 10px;
+  height: 25vh;
+
 }
 
 ul {
   list-style-position: inside;
-  text-align: center;
-  list-style-type: none;
+}
+
+.github-link img {
+  width: 50px;
 }
 
 footer {
@@ -114,7 +130,9 @@ footer {
   nav a {
     font-size: 30px;
   }
-  .intro-text, .about-text, table {
+  .intro-text,
+  .about-text,
+  table {
     width: 70%;
   }
 }
@@ -123,7 +141,9 @@ footer {
   nav a {
     font-size: 25px;
   }
-  .intro-text, .about-text, table {
+  .intro-text,
+  .about-text,
+  table {
     width: 80%;
   }
 }
@@ -132,10 +152,13 @@ footer {
   nav a {
     font-size: 20px;
   }
-  .intro-text, .about-text, table {
+  .intro-text,
+  .about-text,
+  table {
     width: 90%;
   }
-  th, td {
+  th,
+  td {
     padding: 15px;
   }
 
