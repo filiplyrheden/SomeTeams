@@ -6,7 +6,7 @@ require __DIR__ . "/header.php";
 <div class="about">
 
     <article class="about-text">
-        <p>This project is part of an assignment during my education as a web developer at Yrgo in Gothenburg.</p>
+        <p>Created by Filip Lyrheden as part of an assignment during my education as a web developer at Yrgo in Gothenburg.</p>
 
         <br>
 
