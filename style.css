@@ -79,7 +79,6 @@ td {
   margin-right: 10px;
   padding: 10px;
   height: 25vh;
-
 }
 
 h4 {
@@ -94,7 +93,6 @@ h4 {
   margin-right: 20px;
   padding: 10px;
   height: 25vh;
-
 }
 
 ul {
@@ -164,5 +162,11 @@ footer {
 
   img {
     width: 50px;
+  }
+
+  .about,
+  .about-text,
+  .about-list {
+    height: 70vh;
   }
 }
