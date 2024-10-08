@@ -1,5 +1,5 @@
 <footer>
-    <p>Created by Filip Lyrheden</p>
+    <p> &copy; <?= date("Y"); ?> Filip Lyrheden </p>
 </footer>
 </body>
 

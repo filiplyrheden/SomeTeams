@@ -19,6 +19,10 @@ nav a {
   margin: 10px;
 }
 
+nav a:hover {
+  color: red;
+}
+
 h1 {
   font-family: "Alata", sans-serif;
   font-weight: 400;
@@ -26,7 +30,7 @@ h1 {
 }
 
 p {
-font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .intro-text {
@@ -37,7 +41,7 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-align: center;
   margin-bottom: 30px;
   margin-left: auto;
-  margin-right: auto ;
+  margin-right: auto;
   padding: 10px;
 }
 
@@ -69,14 +73,20 @@ td {
   background-color: lightgoldenrodyellow;
   text-align: center;
   margin-left: auto;
-  margin-right: auto ;
-  padding: 10px;}
+  margin-right: auto;
+  padding: 10px;
+}
 
-  ul {
-    list-style-position: inside;
-    text-align: center;
-    list-style-type: none;
-  }
+h4 {
+  margin-bottom: -10px;
+  text-decoration: underline;
+}
+
+ul {
+  list-style-position: inside;
+  text-align: center;
+  list-style-type: none;
+}
 
 footer {
   bottom: 0;
