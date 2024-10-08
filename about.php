@@ -8,7 +8,7 @@ require __DIR__ . "/header.php";
     <div class="about-text">
         <p>Created by Filip Lyrheden as part of an assignment during my education as a web developer at Yrgo in Gothenburg.</p>
         <p>For more details about the project, visit the GitHub repository:</p>
-        <a href="https://github.com/filiplyrheden/SomeTeams" class="github-link"><img src="/assets/github-mark.svg" alt="GitHub logotype"></a>
+        <a href="https://github.com/filiplyrheden/SomeTeams" class="github-link"><img src="/SomeTeams/assets/github-mark.svg" alt="GitHub logotype"></a>
     </div>
     <br>
 
