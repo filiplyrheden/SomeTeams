@@ -107,3 +107,38 @@ footer {
   font-weight: 400;
   font-style: normal;
 }
+
+/*Media queries*/
+@media (min-width: 1024px) {
+  nav a {
+    font-size: 30px;
+  }
+  .intro-text, .about-text, table {
+    width: 70%;
+  }
+}
+
+@media (max-width: 1024px) and (min-width: 768px) {
+  nav a {
+    font-size: 25px;
+  }
+  .intro-text, .about-text, table {
+    width: 80%;
+  }
+}
+
+@media (max-width: 768px) {
+  nav a {
+    font-size: 20px;
+  }
+  .intro-text, .about-text, table {
+    width: 90%;
+  }
+  th, td {
+    padding: 15px;
+  }
+
+  img {
+    width: 50px;
+  }
+}
